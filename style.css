@@ -1,0 +1,52 @@
+/**/
+header{
+	color: #cde2fa;
+	background-color: #595959;
+	font-family: "Courier", Calibri, Monaco;
+	letter-spacing: 0.1cm;
+	text-align: center;
+}
+footer{
+	position: fixed;
+	bottom: 0cm;
+	background-color: #595959;
+	color: #cde2fa;
+	width: 100%;
+	text-align: center;
+}
+main section{
+	border: 3pt solid #595959;
+	border-radius:30px;
+	padding: 2%;
+	width: 45%;
+}
+main section h2{
+	color: #cde2fa;
+	background-color: #595959;
+	font-family: "Courier", Calibri, Monaco;
+	letter-spacing: 0.1cm;
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #595959;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #333333;
+}
