@@ -6,6 +6,10 @@ header{
 	letter-spacing: 0.1cm;
 	text-align: center;
 }
+img{
+	border-radius: 50%; 
+	border: 5px solid #595959;
+}
 footer{
 	position: fixed;
 	bottom: 0cm;
@@ -16,7 +20,7 @@ footer{
 }
 main section{
 	border: 3pt solid #595959;
-	border-radius:30px;
+	border-radius:125px;
 	padding: 2%;
 	width: 50%;
 }
